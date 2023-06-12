@@ -1,8 +1,8 @@
 :root {
-    --vermelho-principal: #e70d0d;
-    --cinza-secundario: #837b7b;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --vermelho-principal: #e7e30d;
+    --cinza-secundario: #7b837d;
+    --botao-azul: #6516f7;
+    --cor-de-fundo: #b81795;
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("maxresdefault.jpg");
+    
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
